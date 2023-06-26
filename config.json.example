@@ -1,9 +1,0 @@
-{
-  "TOKEN": "ODkwODcxNzUwNDAzOTYwODMy.GPrZYq.GnfThCB2PfA8D1rgF_ti1ETwqcTcUN-Ljyqspg",
-  "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
-  "PRUNING": false,
-  "LOCALE": "vi",
-  "STAY_TIME": 9999999999,
-  "DEFAULT_VOLUME": 100
-}
